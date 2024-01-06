@@ -10,7 +10,7 @@
 <li>🔭 I’m currently looking for a job.</li>
 <li>🧐 Learning about <strong>dsa</strong>, <strong>system design</strong>, and a bit of <strong>designing</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/TechSaq">Github</a>.</li>
-<li>📝 I <del>regulary</del> read articles.</li>
+<li>📝 I regulary read articles.</li>
 <li>💬 Ping me about <strong>react, react-native, frontend, django, and javascrip</strong>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1RJ6Wy7yzkdvCusiE317l99hx6OCMqRaz/view?usp=sharing">resume</a>.</li>
 </ul>
