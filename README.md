@@ -12,7 +12,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/TechSaq">Github</a>.</li>
 <li>📝 I regulary read articles.</li>
 <li>💬 Ping me about <strong>react, react-native, frontend, django, and javascrip</strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1RJ6Wy7yzkdvCusiE317l99hx6OCMqRaz/view?usp=sharing">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/17NuHjXIrxOELAT-DraAY2fOwYJeow3-4/view?usp=sharing">resume</a>.</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
